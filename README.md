@@ -1,4 +1,4 @@
-[![MasterHead]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWstXvCrjt5kLFco6esyZc3MZJDRgozn3wgg&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO1n7N8HpcmX4xf95G_Ut_i-XHlddIOpxPPQ&s))](https://dennis-karikari.github.io)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO1n7N8HpcmX4xf95G_Ut_i-XHlddIOpxPPQ&s)](https://dennis-karikari.github.io)
 <h1 align="center">Hi 👋, I'm Dennis Bempah Karikari</h1>
 <h3 align="center">Data Analyst|Clinical Research Associate|UI/UX designer|Tech Enthusiast from Ghana</h3>
 <img align="right" alt="Analytics" width="400" src="https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ"
