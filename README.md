@@ -1,33 +1,35 @@
-# Hi there, I'm Dennis Bempah Karikari! 👋
+[![MasterHead]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWstXvCrjt5kLFco6esyZc3MZJDRgozn3wgg&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO1n7N8HpcmX4xf95G_Ut_i-XHlddIOpxPPQ&s))](https://dennis-karikari.github.io)
+<h1 align="center">Hi 👋, I'm Dennis Bempah Karikari</h1>
+<h3 align="center">Data Analyst|Clinical Research Associate|UI/UX designer|Tech Enthusiast from Ghana</h3>
+<img align="right" alt="Analytics" width="400" src="https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ"
 
-🚀 **Data Analyst | Social Entrepreneur | Fintech & HealthTech Innovator | Tech Enthusiast**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dennis-karikari&label=Profile%20views&color=0e75b6&style=flat" alt="dennis-karikari" /> </p>
 
-I am passionate about harnessing **data, technology, and innovation** to drive impactful change. 
-My expertise lies in **data analytics, business intelligence, and digital product development**, with a strong focus on **public health, fintech, and social impact initiatives**. 
-I thrive on solving complex problems through tech-driven solutions.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dennis-karikari" alt="dennis-karikari" /></a> </p>
 
----
-## 🔧 Tech Stack & Expertise
+- 🌱 I’m currently learning **cloud computing (AWS)**
 
-- **Data Analytics & Visualization**: Excel, Power BI, SQL  
-- **Business Intelligence & Reporting**: Power BI Service (Permissions, Dashboards, Reports)  
-- **Database Management**: SQL (MySQL)  
-- **Advanced Excel**: Data Cleaning, Pivot Tables, Formulas  
-- **Product & UX Design**: Wireframing, User Research, Prototyping  
-- **AI & Automation**: Exploring AI-driven solutions for data and fintech applications  
+- 👯 I’m looking to collaborate on **Data analytics and visualization, Database management, Product and UX design**
 
----
-## 🎯 What Drives Me
+- 🤝 I’m looking for help with **python**
 
-- 🌍 **Building tech-driven solutions** that enhance public health & financial security  
-- 📊 **Advancing data literacy** to empower decision-making for social good  
-- 🔍 **Revolutionizing regional integration** through fintech innovations  
-- 💡 **Leveraging AI & automation** for next-gen impact-driven applications  
+- 👨‍💻 All of my projects are available at [https://dennis-karikari.github.io/](https://dennis-karikari.github.io/)
 
----
-## 📬 Let's Connect
-💼 [LinkedIn](https://www.linkedin.com/in/dennisbempahkarikari)  
-📧 Email: Bempahdennis@gmail.com  
+- 💬 Ask me about **Anything data, clinical research, and UI designs**
 
-💡 _Always open to collaborations and innovative ideas! Let's build the future together!_ 🚀
-```
+- 📫 How to reach me **bempahdennis@gmail.com**
+
+- ⚡ Fun fact **I'm funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/denniskarikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/denniskarikari" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dennis-karikari&show_icons=true&locale=en&layout=compact" alt="dennis-karikari" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dennis-karikari&" alt="dennis-karikari" /></p>
+
