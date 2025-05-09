@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KaFeE8SzVCK_GLMhzeIZR2shLJ13gq0g/view?usp=sharing](https://drive.google.com/file/d/1KaFeE8SzVCK_GLMhzeIZR2shLJ13gq0g/view?usp=sharing)
 
-- ⚡ Fun fact **I'm funny**
+- ⚡ Fun fact **I draw and paint in my free time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
